@@ -1,0 +1,115 @@
+variable,coeficiente
+cat__Country_Kuwait,-1.426301331345619
+cat__Country_Bhutan,-1.2191447050338367
+cat__Country_Uruguay,0.9798543637428919
+cat__Country_Cyprus,0.9625564925230424
+cat__Country_Egypt,0.9535462274246147
+cat__Country_Serbia,0.9177830772966536
+cat__Country_Slovakia,-0.8495139648897001
+cat__Most_Used_Platform_Snapchat,0.8480772251087002
+cat__Country_South Korea,-0.7689363590476694
+cat__Country_Ghana,-0.7519878143915864
+cat__Country_Slovenia,-0.7016372291737777
+num__Mental_Health_Score,-0.61818393962249
+cat__Country_Kazakhstan,-0.568432221841998
+cat__Country_Indonesia,-0.5632834679611514
+cat__Most_Used_Platform_LINE,-0.5327553717314005
+cat__Country_Kosovo,-0.5278176021062845
+cat__Country_Belgium,-0.524590567030551
+cat__Country_Liechtenstein,0.49597823694304444
+cat__Country_Lebanon,0.4956133802047971
+cat__Country_Thailand,-0.49460076010740855
+cat__Country_Syria,-0.46905289793274985
+cat__Country_Armenia,0.46347771831860596
+cat__Country_Costa Rica,-0.43840642118463635
+cat__Country_Israel,0.4308954775913818
+cat__Country_Maldives,0.43072578305151393
+cat__Country_Netherlands,-0.3921893042665147
+cat__Country_USA,0.3858187203637576
+num__Conflicts_Over_Social_Media,0.37747508525841367
+cat__Country_Japan,-0.3768212775538239
+cat__Country_Romania,0.3521679209026292
+cat__Country_Denmark,-0.3378967801416395
+cat__Affects_Academic_Performance_No,-0.3315473468541391
+cat__Affects_Academic_Performance_Yes,0.3315473468535856
+cat__Country_Nepal,0.31614709222967535
+cat__Academic_Level_High School,0.30857687215708374
+cat__Country_Brazil,0.28860799987213026
+cat__Country_Bolivia,0.28299797297710216
+cat__Country_Germany,-0.27487492292208177
+cat__Country_Bosnia,0.2596195874614648
+cat__Country_Malaysia,0.2548912816427393
+cat__Most_Used_Platform_WhatsApp,-0.24219012404302195
+cat__Country_Oman,0.23970623985247727
+cat__Country_Monaco,0.23961345331633457
+cat__Country_San Marino,0.23221940961619145
+cat__Country_Spain,0.2268903622245546
+cat__Country_Taiwan,0.2260270273100299
+cat__Country_Sweden,-0.21751684474765598
+cat__Country_Switzerland,-0.2164675293138659
+cat__Country_North Macedonia,0.21414541035761125
+cat__Country_Vatican City,0.2126075795589273
+cat__Academic_Level_Undergraduate,-0.21021598847330433
+cat__Country_Afghanistan,0.1878781582405486
+cat__Country_Bulgaria,0.1874269129155708
+cat__Country_Chile,0.18733412637942842
+cat__Country_Iceland,0.18275162678608614
+cat__Country_South Africa,0.1800908137922361
+cat__Country_Mexico,0.17826065821725556
+cat__Country_Lithuania,-0.1734951490595163
+cat__Country_India,0.17322513587894453
+cat__Country_Turkey,0.16211278598912376
+cat__Country_New Zealand,-0.16147870960213206
+cat__Most_Used_Platform_WeChat,-0.1601155933069469
+cat__Country_Hungary,0.15450501639673506
+cat__Most_Used_Platform_TikTok,0.14561876522587872
+num__Avg_Daily_Usage_Hours,0.1451965207434593
+cat__Country_Pakistan,-0.14394138577499516
+cat__Country_Austria,0.1426320774218956
+cat__Country_Venezuela,-0.13545228981820584
+cat__Country_China,0.13477323671062982
+cat__Country_Finland,-0.12183504787986293
+cat__Country_Belarus,0.1217095522922557
+cat__Country_Greece,-0.11175846951987216
+cat__Country_Canada,0.10787147706397435
+cat__Most_Used_Platform_LinkedIn,-0.10154045216787244
+cat__Country_France,-0.09937871402501408
+cat__Academic_Level_Graduate,-0.09836088368351706
+cat__Country_Norway,-0.09252111326977003
+cat__Country_Moldova,0.09239865923961084
+cat__Relationship_Status_In Relationship,0.08732123257038404
+cat__Country_Australia,-0.08265369736490949
+cat__Country_Yemen,0.07315902794575582
+cat__Country_Jordan,-0.07125562895904489
+num__Sleep_Hours_Per_Night,-0.07104586429907137
+cat__Most_Used_Platform_YouTube,0.06494001790500309
+cat__Country_UAE,-0.05812300330806132
+cat__Country_Paraguay,-0.05461477092819447
+cat__Relationship_Status_Single,-0.054247585999346655
+cat__Most_Used_Platform_Twitter,-0.0533983674431082
+num__Age,-0.04963415089427258
+cat__Country_Bahamas,0.04942409121022039
+cat__Country_Hong Kong,0.044841591616878486
+cat__Country_Colombia,0.03972491823703052
+cat__Country_Poland,0.03949147801032175
+cat__Most_Used_Platform_Facebook,0.03764381484909304
+cat__Country_Malta,0.037354761380592336
+cat__Country_Russia,-0.03724614336807424
+cat__Country_Singapore,0.035867684494612785
+cat__Most_Used_Platform_VKontakte,-0.03379762798148835
+cat__Relationship_Status_Complicated,-0.03307364657148952
+cat__Country_Kenya,0.030786150415305455
+cat__Most_Used_Platform_Instagram,0.030143302171102365
+cat__Country_Albania,0.030030676120880194
+cat__Country_Peru,0.029464607648612726
+cat__Country_Sri Lanka,-0.02447212504233724
+cat__Country_Ireland,0.02250044909452986
+cat__Country_Qatar,0.022411645381129223
+cat__Country_Georgia,-0.018746791006037117
+cat__Country_UK,0.01435892169288379
+cat__Country_Italy,-0.013239458538758488
+cat__Gender_Male,-0.009894401898981997
+cat__Gender_Female,0.00989440189874042
+cat__Country_Portugal,-0.005538268335730799
+cat__Most_Used_Platform_KakaoTalk,-0.002625588585922408
+cat__Country_Bangladesh,0.0009457114377537466

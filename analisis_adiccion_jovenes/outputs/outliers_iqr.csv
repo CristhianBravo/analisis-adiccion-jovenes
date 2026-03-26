@@ -1,0 +1,7 @@
+variable,lower,upper,count,pct
+Age,14.5,26.5,0,0.0
+Avg_Daily_Usage_Hours,1.5499999999999994,8.35,3,0.00425531914893617
+Sleep_Hours_Per_Night,3.4499999999999997,10.25,0,0.0
+Mental_Health_Score,2.0,10.0,0,0.0
+Conflicts_Over_Social_Media,-1.0,7.0,0,0.0
+Addicted_Score,0.5,12.5,0,0.0

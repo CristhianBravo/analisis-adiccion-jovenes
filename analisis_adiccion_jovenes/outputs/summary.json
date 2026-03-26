@@ -1,0 +1,124 @@
+{
+  "rows": 705,
+  "columns": 13,
+  "numeric_columns": [
+    "Student_ID",
+    "Age",
+    "Avg_Daily_Usage_Hours",
+    "Sleep_Hours_Per_Night",
+    "Mental_Health_Score",
+    "Conflicts_Over_Social_Media",
+    "Addicted_Score",
+    "High_Addiction"
+  ],
+  "categorical_columns": [
+    "Gender",
+    "Academic_Level",
+    "Country",
+    "Most_Used_Platform",
+    "Affects_Academic_Performance",
+    "Relationship_Status"
+  ],
+  "missing_total": 0,
+  "duplicates": 0,
+  "regression_metrics": {
+    "R2": 0.9582380950038097,
+    "RMSE": 0.32326512262784207,
+    "MAE": 0.22148194701455978,
+    "CV_R2_mean": 0.966837922815909,
+    "CV_RMSE_mean": 0.2864385619083966
+  },
+  "classification_metrics": {
+    "accuracy": 0.9929078014184397,
+    "precision": 0.9879518072289156,
+    "recall": 1.0,
+    "f1": 0.9939393939393939,
+    "roc_auc": 0.9977263331955354,
+    "CV_ROC_AUC_mean": 0.9997106242248863,
+    "CV_F1_mean": 0.9987878787878788
+  },
+  "top_correlations_addicted_score": {
+    "Conflicts_Over_Social_Media": 0.9335858668503327,
+    "High_Addiction": 0.8761968886846537,
+    "Avg_Daily_Usage_Hours": 0.8320001573523113,
+    "Age": -0.16639570901113218,
+    "Sleep_Hours_Per_Night": -0.7648579747036496,
+    "Mental_Health_Score": -0.9450506757277403
+  },
+  "top_regression_importance": [
+    {
+      "variable": "Mental_Health_Score",
+      "importancia": 0.28331707234843984
+    },
+    {
+      "variable": "Conflicts_Over_Social_Media",
+      "importancia": 0.10910143452912809
+    },
+    {
+      "variable": "Affects_Academic_Performance",
+      "importancia": 0.07536725284661974
+    },
+    {
+      "variable": "Country",
+      "importancia": 0.039921230218461744
+    },
+    {
+      "variable": "Avg_Daily_Usage_Hours",
+      "importancia": 0.009940040989624099
+    },
+    {
+      "variable": "Most_Used_Platform",
+      "importancia": 0.0050468609550657125
+    },
+    {
+      "variable": "Relationship_Status",
+      "importancia": 0.0035283446727668367
+    },
+    {
+      "variable": "Gender",
+      "importancia": 0.00039489879403534764
+    }
+  ],
+  "top_classification_importance": [
+    {
+      "variable": "Mental_Health_Score",
+      "importancia": 0.1550227366680447
+    },
+    {
+      "variable": "Country",
+      "importancia": 0.0014262091773460384
+    },
+    {
+      "variable": "Sleep_Hours_Per_Night",
+      "importancia": 0.0011368334022323402
+    },
+    {
+      "variable": "Most_Used_Platform",
+      "importancia": 0.000764778834229074
+    },
+    {
+      "variable": "Affects_Academic_Performance",
+      "importancia": 0.000744109136006621
+    },
+    {
+      "variable": "Relationship_Status",
+      "importancia": 0.0006821000413393952
+    },
+    {
+      "variable": "Conflicts_Over_Social_Media",
+      "importancia": 0.00043406366267053633
+    },
+    {
+      "variable": "Age",
+      "importancia": 0.00016535758577922443
+    }
+  ],
+  "insights": [
+    "La muestra contiene 705 registros y 13 variables originales.",
+    "No se detectaron valores nulos ni registros duplicados completos.",
+    "La variable objetivo continua Addicted_Score muestra relaciones lineales muy fuertes con Mental_Health_Score, Conflicts_Over_Social_Media, Avg_Daily_Usage_Hours y Sleep_Hours_Per_Night.",
+    "La regresión lineal alcanzó R²=0.958, RMSE=0.323 y MAE=0.221.",
+    "La regresión logística para alta adicción (score >= 7) alcanzó accuracy=0.993, F1=0.994 y ROC-AUC=0.998.",
+    "El desempeño predictivo es extraordinariamente alto; esto puede ser señal de relaciones estructurales muy fuertes o de datos sintéticos/semisintéticos."
+  ]
+}

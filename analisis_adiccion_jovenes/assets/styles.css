@@ -1,0 +1,13 @@
+
+body { font-family: Arial, sans-serif; background: #f7f9fc; margin: 0; color: #1f2937; }
+.container { max-width: 1400px; margin: 0 auto; padding: 24px; }
+.metrics-grid { display: grid; grid-template-columns: repeat(4, minmax(180px, 1fr)); gap: 16px; margin: 20px 0; }
+.metric-card { background: white; border-radius: 14px; padding: 18px; box-shadow: 0 2px 10px rgba(0,0,0,0.08); }
+.metric-title { font-size: 14px; color: #6b7280; margin-bottom: 8px; }
+.metric-value { font-size: 28px; font-weight: 700; }
+.filters-grid { display: grid; grid-template-columns: 1fr 1fr 2fr; gap: 16px; margin-bottom: 20px; }
+.filter-box { background: white; padding: 14px; border-radius: 12px; box-shadow: 0 2px 10px rgba(0,0,0,0.08); }
+.slider-box { padding-bottom: 28px; }
+.charts-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 18px; margin-bottom: 20px; }
+.insights-section { background: white; padding: 18px; border-radius: 14px; margin-bottom: 20px; box-shadow: 0 2px 10px rgba(0,0,0,0.08); }
+.insights-list li { margin-bottom: 8px; }

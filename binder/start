@@ -1,4 +1,4 @@
 #!/bin/bash
-export PORT=8050
+export PORT=8060
 python app.py > /tmp/dash.log 2>&1 &
 exec "$@"

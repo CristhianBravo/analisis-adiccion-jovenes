@@ -1,3 +1,4 @@
 #!/bin/bash
-export PORT=${PORT:-8050}
-python app.py
+export PORT=8050
+python app.py > /tmp/dash.log 2>&1 &
+exec "$@"

@@ -31,3 +31,5 @@ Esta decisión se documenta para mantener interpretabilidad.
 - `Student_ID` se excluye del modelado por ser un identificador.
 - Se usan pipelines con imputación, escalamiento y codificación one-hot.
 - El dashboard incluye filtros por edad, plataforma e impacto académico.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/https://mybinder.org/v2/gh/CristhianBravo/analisis-adiccion-jovenes/main?urlpath=proxy/8050/HEAD)

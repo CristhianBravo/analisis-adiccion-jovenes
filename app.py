@@ -379,7 +379,7 @@ def update_dashboard(platform_value, academic_value, age_range):
 
 
 if __name__ == "__main__":
-    port = int(os.environ.get("PORT", 8050))
+    port = int(os.environ.get("PORT", 8060))
     app.run(
         host="0.0.0.0",
         port=port,
